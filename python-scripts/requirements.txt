@@ -1,1 +1,1 @@
-# This file is intentionally left blank.
+pypdf==3.17.1
